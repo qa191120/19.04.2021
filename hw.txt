@@ -1,3 +1,6 @@
+          0
+          whats the differnece between runtime exceptions and checked exceptions?
+          
           1
          create a string and put null inside it
          create a function that gets a string as input and tries to print the half size of the string
